@@ -15,7 +15,7 @@ import sys
 import shutil
 import os
 import bpy
-=======
+
 """ 
 MIT License
 
